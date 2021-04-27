@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="registration">Registration Form</string>
+    <string name="welcome">Welcome to Adenture Learning Club!</string>
+    <string name="fullname">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="studentid">Student ID</string>
+    <string name="school">School</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="registerBtn">Register</string>
+    <string name="Name">Name</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Cancel">Cancel</string>
+</resources>
